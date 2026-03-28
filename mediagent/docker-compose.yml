@@ -1,0 +1,33 @@
+version: "3.9"
+
+services:
+  mediagent:
+    build: .
+    container_name: mediagent
+    ports:
+      - "8501:8501"
+    environment:
+      - OLLAMA_HOST=http://host.docker.internal:11434
+    volumes:
+      - ./rag/docs:/app/rag/docs          # mount your medical docs
+      - ./rag/faiss_index:/app/rag/faiss_index  # persist FAISS index
+    extra_hosts:
+      - "host.docker.internal:host-gateway"  # Linux fix for host access
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+# ──────────────────────────────────────────────────────────────────
+# USAGE:
+#   1. Make sure Ollama is running on your host:  ollama run llama3.2
+#   2. Build and start:                           docker-compose up --build
+#   3. Open browser:                              http://localhost:8501
+#
+# To run in background:   docker-compose up --build -d
+# To stop:                docker-compose down
+# To view logs:           docker-compose logs -f
+# ──────────────────────────────────────────────────────────────────

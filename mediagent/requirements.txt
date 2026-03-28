@@ -1,0 +1,19 @@
+# AI Mustaqbil 2.0 — MediAgent
+# Core LLM & agents
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+langgraph>=0.2.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Document loaders
+pypdf>=3.0.0
+
+# UI
+streamlit>=1.35.0
+
+# Utils
+python-dotenv>=1.0.0
