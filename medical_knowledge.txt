@@ -1,0 +1,63 @@
+DENGUE FEVER
+Dengue fever is a mosquito-borne viral infection common in tropical regions including Pakistan.
+Symptoms: High fever (104°F/40°C), severe headache, pain behind the eyes, muscle and joint pain, nausea, vomiting, swollen glands, rash appearing 2-5 days after fever onset.
+Red flags (Severe Dengue): Abdominal pain, persistent vomiting, bleeding gums or nose, blood in urine/stool/vomit, fatigue/restlessness.
+Tests: NS1 antigen test (early), Dengue IgM/IgG antibodies, CBC (platelet count drops in dengue).
+Treatment: No specific antiviral. Rest, fluids, paracetamol. AVOID aspirin/ibuprofen.
+
+TYPHOID FEVER
+Typhoid is caused by Salmonella typhi, spread through contaminated food/water.
+Symptoms: Gradual onset fever (rises daily), headache, abdominal pain, constipation or diarrhea, rose-colored spots on trunk, weakness.
+Tests: Widal test, Blood culture (gold standard), CBC.
+Treatment: Antibiotics (ceftriaxone, azithromycin). Hydration. Rest.
+
+MALARIA
+Caused by Plasmodium parasites transmitted by Anopheles mosquitoes.
+Symptoms: Cyclical fever with chills and sweating, headache, muscle pain, nausea, vomiting. Severe: confusion, seizures, dark urine.
+Tests: Rapid Diagnostic Test (RDT), Blood smear (thick/thin), PCR.
+Treatment: Artemisinin-based combination therapy (ACT). Chloroquine for P. vivax in sensitive areas.
+
+PNEUMONIA
+Infection of the lungs caused by bacteria, viruses, or fungi.
+Symptoms: Cough (with phlegm), fever, chills, shortness of breath, chest pain when breathing/coughing.
+Tests: Chest X-ray, sputum culture, CBC, blood cultures.
+Treatment: Antibiotics (amoxicillin/azithromycin for community-acquired). Oxygen if SpO2 < 94%.
+
+URINARY TRACT INFECTION (UTI)
+Bacterial infection of the urinary tract.
+Symptoms: Burning urination, frequent urge to urinate, cloudy or foul-smelling urine, pelvic pain (women), lower back pain.
+Tests: Urine dipstick, urine culture and sensitivity.
+Treatment: Antibiotics (nitrofurantoin, trimethoprim-sulfamethoxazole). Increase fluid intake.
+
+DIABETES (TYPE 2)
+Chronic condition with high blood sugar due to insulin resistance.
+Symptoms: Frequent urination, excessive thirst, unexplained weight loss, fatigue, blurred vision, slow healing wounds, tingling in hands/feet.
+Tests: Fasting blood glucose, HbA1c, oral glucose tolerance test.
+Management: Metformin (first line), lifestyle changes, blood sugar monitoring.
+
+HYPERTENSION
+Persistently high blood pressure (>130/80 mmHg).
+Symptoms: Often asymptomatic. May cause headache, dizziness, nosebleeds, shortness of breath in severe cases.
+Tests: Blood pressure measurement, kidney function tests, ECG, urine albumin.
+Management: Lifestyle changes, ACE inhibitors, ARBs, beta-blockers, calcium channel blockers.
+
+ANEMIA
+Low hemoglobin/red blood cells causing reduced oxygen delivery.
+Symptoms: Fatigue, weakness, pale skin, shortness of breath, dizziness, cold hands/feet, brittle nails.
+Types: Iron-deficiency (most common), B12 deficiency, thalassemia.
+Tests: CBC, serum ferritin, serum iron, B12 levels.
+Treatment: Iron supplements, dietary changes, treat underlying cause.
+
+GASTROENTERITIS
+Inflammation of stomach/intestines, usually viral or bacterial.
+Symptoms: Nausea, vomiting, diarrhea, abdominal cramps, low-grade fever.
+Red flags: Blood in stool, high fever, severe dehydration, symptoms >72 hours.
+Tests: Stool culture (if bacterial suspected), CBC.
+Treatment: Oral rehydration salts (ORS), rest, bland diet. Antibiotics only if bacterial.
+
+ASTHMA
+Chronic inflammatory airway disease causing recurrent breathlessness.
+Symptoms: Wheezing, shortness of breath, chest tightness, cough (worse at night/early morning).
+Triggers: Allergens, cold air, exercise, smoke, infections.
+Tests: Spirometry, peak flow measurement.
+Treatment: Short-acting beta-agonist (salbutamol) for relief. Inhaled corticosteroids for control.
